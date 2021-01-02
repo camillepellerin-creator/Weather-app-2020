@@ -60,3 +60,23 @@ li:first-letter {
   font-size: 16px;
   top: -32px;
 }
+
+.weather-temperature .active {
+  color: #242424;
+  cursor: default;
+  text-decoration: none;
+}
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
+
+.weather-temperature .other {
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+
+.weather-temperature .other:hover {
+  text-decoration: none;
+}
